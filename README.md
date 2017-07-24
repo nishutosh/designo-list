@@ -18,13 +18,13 @@
 * [Da Font](https://www.dafont.com)
 * [Font Squirrel](https://www.fontsquirrel.com/)
 * [Creative Bloq Fonts](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
-* [Typo guide](http://www.typogui.de/)
+* [Typo gui](http://www.typogui.de/)
 
 ### Images
 * [Unsplash](https://unsplash.com/)
-* [PixBay](https://pixabay.com/)
+* [PixaBay](https://pixabay.com/)
 * [Coverr](http://www.coverr.co/)
-* [Iso Republic](http://isorepublic.com/)
+* [ISO Republic](http://isorepublic.com/)
 * [The Stocks ](http://thestocks.im/)
 
 ### Cool Designs
@@ -36,12 +36,12 @@
 ### Wireframing And Stuff
 * [Gravit Designer](https://www.designer.io/)
 * [sketch](https://www.sketchapp.com/)
-* [Inkskape](https://inkscape.org)
+* [Inkscape](https://inkscape.org)
 * [Illustrator](www.adobe.com/in/products/illustrator.html)
 
 ### Code Editor
 * [Atom](https://atom.io/)
-* [Sublime](https://www.sublimetext.com)
+* [Sublime Text](https://www.sublimetext.com)
 * [Brackets](http://brackets.io)
 
 > I will keep updating the list, and you guys can also add your favorites to the list . 
